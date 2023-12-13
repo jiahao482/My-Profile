@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jiahao482
-- 🌱 Currently an undergrad studying in Singapore Management University, majoring in Information Systems
+- 🌱 Currently an undergrad studying in Singapore Management University, majoring in Information Systems!
 - 📫 I upload my interesting assignments and projects here!
+- 💬 Python, HTML/CSS, Javascript, PHP, SQL
 
 <!---
 jiahao482/jiahao482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
